@@ -1,0 +1,154 @@
+{
+    "cache": [
+        {
+            "region": "Chicago",
+            "link": "https://www.haxball.com/play?c=J2IKoX4v7Aw",
+            "roomId": 1,
+            "flag": "🇺🇸"
+        },
+        {
+            "region": "Miami",
+            "link": "https://www.haxball.com/play?c=mt_ZAyHF71A",
+            "roomId": 1,
+            "flag": "🇺🇸"
+        },
+        {
+            "region": "New York",
+            "link": "https://www.haxball.com/play?c=5DHadJfCdd0",
+            "roomId": 1,
+            "flag": "🇺🇸"
+        },
+        {
+            "region": "Seattle",
+            "link": "Unavailable",
+            "roomId": 1,
+            "flag": "🇺🇸"
+        },
+        {
+            "region": "Los Angeles",
+            "link": "https://www.haxball.com/play?c=KN-gPr0Pv3s",
+            "roomId": 1,
+            "flag": "🇺🇸"
+        },
+        {
+            "region": "Sao Paulo",
+            "link": "Unavailable",
+            "roomId": 1,
+            "flag": "🇧🇷"
+        },
+        {
+            "region": "Germany",
+            "link": "https://www.haxball.com/play?c=s88TgtGf3mU",
+            "roomId": 1,
+            "flag": "🇩🇪"
+        },
+        {
+            "region": "London",
+            "link": "https://www.haxball.com/play?c=8APrp7GHd7U",
+            "roomId": 1,
+            "flag": "🇬🇧"
+        },
+        {
+            "region": "Mumbai",
+            "link": "Unavailable",
+            "roomId": 1,
+            "flag": "🇮🇳"
+        },
+        {
+            "region": "Miami",
+            "link": "https://www.haxball.com/play?c=BPBUZJNdIdQ",
+            "roomId": 2,
+            "flag": "🇺🇸"
+        },
+        {
+            "region": "New York",
+            "link": "https://www.haxball.com/play?c=ffu0tKsllQY",
+            "roomId": 2,
+            "flag": "🇺🇸"
+        },
+        {
+            "region": "Los Angeles",
+            "link": "https://www.haxball.com/play?c=nSNlxyfm6Qg",
+            "roomId": 2,
+            "flag": "🇺🇸"
+        },
+        {
+            "region": "Germany",
+            "link": "https://www.haxball.com/play?c=Eku32LqoDb4",
+            "roomId": 2,
+            "flag": "🇩🇪"
+        },
+        {
+            "region": "London",
+            "link": "https://www.haxball.com/play?c=lqIVgB7P7oI",
+            "roomId": 2,
+            "flag": "🇬🇧"
+        },
+        {
+            "region": "Chicago",
+            "link": "https://www.haxball.com/play?c=rGfpMIH90Us",
+            "flag": "🇮🇳",
+            "roomId": 2
+        },
+        {
+            "region": "Chicago",
+            "link": "https://www.haxball.com/play?c=Vd9Q_TLrKmA",
+            "roomId": 3,
+            "flag": "🇺🇸"
+        },
+        {
+            "region": "Miami",
+            "link": "https://www.haxball.com/play?c=xqA0McWuxcc",
+            "roomId": 3,
+            "flag": "🇺🇸"
+        },
+        {
+            "region": "New York",
+            "link": "https://www.haxball.com/play?c=jfPe1-xsuMA",
+            "roomId": 3,
+            "flag": "🇺🇸"
+        },
+        {
+            "region": "Germany",
+            "link": "https://www.haxball.com/play?c=d7E2EQVf5nA",
+            "roomId": 3,
+            "flag": "🇩🇪"
+        },
+        {
+            "region": "London",
+            "link": "https://www.haxball.com/play?c=-TPdZpU5a94",
+            "roomId": 3,
+            "flag": "🇬🇧"
+        },
+        {
+            "region": "Chicago",
+            "link": "https://www.haxball.com/play?c=zrbyBzwqYUM",
+            "roomId": 4,
+            "flag": "🇺🇸"
+        },
+        {
+            "region": "Miami",
+            "link": "https://www.haxball.com/play?c=eYBKe102utQ",
+            "roomId": 4,
+            "flag": "🇺🇸"
+        },
+        {
+            "region": "New York",
+            "link": "https://www.haxball.com/play?c=wD1TnV6-STw",
+            "roomId": 4,
+            "flag": "🇺🇸"
+        },
+        {
+            "region": "Germany",
+            "link": "https://www.haxball.com/play?c=9NnQByHj6S8",
+            "roomId": 4,
+            "flag": "🇩🇪"
+        },
+        {
+            "region": "London",
+            "link": "https://www.haxball.com/play?c=MASxtJP-JJg",
+            "roomId": 4,
+            "flag": "🇬🇧"
+        }
+    ]
+}
