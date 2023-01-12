@@ -3,7 +3,7 @@ const flag = __filename.slice(__dirname.length + 1, -(name.length + 4));
 module.exports = {
     name: name,
     async execute(interaction, client) {
-        const rooms = client.cachedRooms.cache.sort((a, b) => a.roomId - b.roomId).filter((room) => room.region.toLowerCase() == "new york");
+        const rooms = client.cachedRooms.cache.sort((a, b) => a.roomId - b.roomId).filter((room) => room.region.toLowerCase() == "north virginia");
         const roomLinks = rooms.map((room) => `${flag} ${room.roomId}. ${room.link}`).join("\n");
         const embed = {
             color: 0x049074,
