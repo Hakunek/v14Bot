@@ -149,6 +149,24 @@
             "link": "Unavailable",
             "roomId": 1,
             "flag": "🇮🇳"
+        },
+        {
+            "region": "Asia",
+            "link": "Unavailable",
+            "roomId": 2,
+            "flag": "🇮🇳"
+        },
+        {
+            "region": "Asia",
+            "link": "Unavailable",
+            "roomId": 3,
+            "flag": "🇯🇵"
+        },
+        {
+            "region": "Asia",
+            "link": "Unavailable",
+            "roomId": 4,
+            "flag": "🇯🇵"
         }
     ]
 }

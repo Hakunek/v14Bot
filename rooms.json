@@ -55,6 +55,24 @@
             "flag": "🇮🇳"
         },
         {
+            "region": "Asia",
+            "link": "Unavailable",
+            "roomId": 2,
+            "flag": "🇮🇳"
+        },
+        {
+            "region": "Asia",
+            "link": "Unavailable",
+            "roomId": 3,
+            "flag": "🇯🇵"
+        },
+        {
+            "region": "Asia",
+            "link": "Unavailable",
+            "roomId": 4,
+            "flag": "🇯🇵"
+        },
+        {
             "region": "South Carolina",
             "link": "https://www.haxball.com/play?c=BPBUZJNdIdQ",
             "roomId": 2,
