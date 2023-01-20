@@ -4,7 +4,7 @@ module.exports = {
     name: name,
     async execute(interaction, client) {
         const rooms = client.cachedRooms.cache.sort((a, b) => a.roomId - b.roomId).filter((room) => room.region.toLowerCase() == name);
-        const roomLinks = rooms.map((room) => `${flag} ${room.roomId}. ${room.link}`).join("\n");
+        const roomLinks = rooms.map((room) => `🇯🇵 ${room.roomId}. ${room.link}`).join("\n");
         const embed = {
             color: 0x049074,
             title: "Global Hosting Services",
