@@ -28,5 +28,6 @@ module.exports = {
         }
 
         console.log(client.user.tag + " ready!");
+        client.user.setActivity(`16 rooms... | /links`, { type: "WATCHING"})
     },
 };
