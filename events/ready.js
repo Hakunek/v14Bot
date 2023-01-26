@@ -26,8 +26,7 @@ module.exports = {
             const button = require(__dirname + "/../buttons/" + buttonF);
             client.buttons.set(button.name, button);
         }
-
-        console.log(client.user.tag + " ready!");
-        client.user.setPresence({ activites: [{ name: `16 rooms... | /links`, type: `WATCHING` }], });
+        setInterval(client.pickPresence, 10 * 1000)
+        console.log(`${client.user.tag} has logged into Discord!`);
     },
 };
