@@ -16,6 +16,8 @@ for (const eventF of events) {
     const event = require("./events/" + eventF);
     client.on(event.name, (...args) => event.execute(...args, client));
 }
+require("./pickPresence.js")(client)
+
 client.cachedRooms = {
     cache: [],
 };
