@@ -10,7 +10,7 @@ module.exports = (client) => {
             },
             {
                 type: ActivityType.Listening,
-                text: "for commands",
+                text: "commands",
                 status: "idle"
             },
             {
