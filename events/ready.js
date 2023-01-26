@@ -5,7 +5,6 @@ module.exports = {
         await client.sleep(500);
         await client.cachedRooms.load;
         setInterval(() => client.cachedRooms.save, 60 * 1000);
-        setInterval(client.pickPresence, 10 * 1000)
         client.cmds = new Map();
         client.buttons = new Map();
 
@@ -27,6 +26,7 @@ module.exports = {
             const button = require(__dirname + "/../buttons/" + buttonF);
             client.buttons.set(button.name, button);
         }
+        setInterval(client.pickPresence, 10 * 1000);
         console.log(`${client.user.tag} has logged into Discord!`);
     },
 };
