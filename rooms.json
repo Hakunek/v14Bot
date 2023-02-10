@@ -1,10 +1,10 @@
 {
     "cache": [
         {
-            "region": "Chicago",
+            "region": "Mexico City",
             "link": "https://www.haxball.com/play?c=J2IKoX4v7Aw",
             "roomId": 1,
-            "flag": "🇺🇸"
+            "flag": "🇲🇽"
         },
         {
             "region": "South Carolina",
@@ -19,10 +19,10 @@
             "flag": "🇺🇸"
         },
         {
-            "region": "Seattle",
+            "region": "Guadalajara",
             "link": "Unavailable",
             "roomId": 1,
-            "flag": "🇺🇸"
+            "flag": "🇲🇽"
         },
         {
             "region": "Los Angeles",
@@ -91,16 +91,16 @@
             "flag": "🇵🇪"
         },
         {
-            "region": "Chicago",
+            "region": "Mexico City",
             "link": "https://www.haxball.com/play?c=rGfpMIH90Us",
-            "flag": "🇮🇳",
+            "flag": "🇲🇽",
             "roomId": 2
         },
         {
-            "region": "Chicago",
+            "region": "Mexico City",
             "link": "https://www.haxball.com/play?c=Vd9Q_TLrKmA",
             "roomId": 3,
-            "flag": "🇺🇸"
+            "flag": "🇲🇽"
         },
         {
             "region": "South Carolina",
@@ -127,10 +127,10 @@
             "flag": "🇵🇪"
         },
         {
-            "region": "Chicago",
+            "region": "Mexico City",
             "link": "https://www.haxball.com/play?c=zrbyBzwqYUM",
             "roomId": 4,
-            "flag": "🇺🇸"
+            "flag": "🇲🇽"
         },
         {
             "region": "South Carolina",
