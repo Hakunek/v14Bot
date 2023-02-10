@@ -1,12 +1,6 @@
 {
     "cache": [
         {
-            "region": "Mexico City",
-            "link": "https://www.haxball.com/play?c=J2IKoX4v7Aw",
-            "roomId": 1,
-            "flag": "🇲🇽"
-        },
-        {
             "region": "South Carolina",
             "link": "https://www.haxball.com/play?c=mt_ZAyHF71A",
             "roomId": 1,
@@ -19,16 +13,22 @@
             "flag": "🇺🇸"
         },
         {
-            "region": "Guadalajara",
-            "link": "Unavailable",
-            "roomId": 1,
-            "flag": "🇲🇽"
-        },
-        {
             "region": "Los Angeles",
             "link": "https://www.haxball.com/play?c=KN-gPr0Pv3s",
             "roomId": 1,
             "flag": "🇺🇸"
+        },
+        {
+            "region": "Mexico City",
+            "link": "https://www.haxball.com/play?c=J2IKoX4v7Aw",
+            "roomId": 1,
+            "flag": "🇲🇽"
+        },
+        {
+            "region": "Guadalajara",
+            "link": "Unavailable",
+            "roomId": 1,
+            "flag": "🇲🇽"
         },
         {
             "region": "Sao Paulo",
