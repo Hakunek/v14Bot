@@ -10,7 +10,7 @@ module.exports = {
             title: "Global Hosting Services",
             url: "https://discord.gg/ksZY2E6Wpz",
             description: `List of rooms for selected location`,
-            fields: [{ name: "\u200b", value: `${flag} **__${name.charAt(0).toUpperCase() + name.slice(1)} Rooms__** ${flag}\n\n${roomLinks}` }],
+            fields: [{ name: "\u200b", value: `${flag} **__Mexico City Rooms__** ${flag}\n\n${roomLinks}` }],
             thumbnail: {
                 url: "https://cdn.discordapp.com/attachments/933693278379978762/1007613680566927480/78E6812D-47E5-4FDA-BEC8-68527FE1FA3A.jpg",
             },
